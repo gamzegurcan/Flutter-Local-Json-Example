@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Gamze Gürcan",
+        "age": "23",
+        "height":"168",
+        "gender":"female",
+        "hair_color":"brown"
+    },
+    {
+        "name": "Omer Erdem Aydemir",
+        "age": "23",
+        "height":"173",
+        "gender":"male",
+        "hair_color":"black"   
+    },
+    {
+        "name": "Yasemin Gürcan",
+        "age": "21",
+        "height":"160",
+        "gender":"female",
+        "hair_color":"brown"
+    },
+    {
+        "name": "İsa Gürcan",
+        "age": "53",
+        "height":"165",
+        "gender":"male",
+        "hair_color":"black"
+    }
+
+]
